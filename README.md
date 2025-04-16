@@ -24,5 +24,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanMathram&show_icons=true&locale=en" alt="ryanmathuram" /></p>
 
-<img src="https://github.com/ryanMathram/ryanMathram/blob/main/snake.yml" alt="Snake animation" />
+ ### - What i do
 
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
