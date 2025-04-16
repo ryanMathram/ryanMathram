@@ -13,7 +13,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/ryanmathuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan mathuram" height="30" width="40" /></a>
 <a href="https://instagram.com/ryn.math" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryn.math" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ryan's python review" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryan's python review" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@RyansPythonReview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryan's python review" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gluski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gluski" height="30" width="40" /></a>
 </p>
 
