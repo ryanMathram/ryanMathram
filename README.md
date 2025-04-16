@@ -1,3 +1,4 @@
+![Peek 2020-07-09 15-53](TR_Vid_at_09.29.53.gif)
 <h1 align="center">Hi 👋, I'm Ryan Godson Mathuram</h1>
 <h3 align="center">A passionate software developer based in San Antonio, Texas</h3>
 
