@@ -28,12 +28,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanMathram&show_icons=true&locale=en&layout=compact" alt="ryanmathuram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanMathram&show_icons=true&locale=en" alt="ryanmathuram" /></p>
+[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram) [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram)
 
- ### - What i do
-
+ ### - My Passion
 
 <br />
 
