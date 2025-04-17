@@ -10,13 +10,9 @@
 
 ⚡ Fun fact **I love to help the community whether it be at the food bank, church, club, etc**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ryanmathuram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan mathuram" height="30" width="40" /></a>
-<a href="https://instagram.com/ryn.math" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryn.math" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@RyansPythonReview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryan's python review" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gluski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gluski" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-RyanMathuram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanmathuram/)](https://www.linkedin.com/in/ryanmathuram/)
+[![Instagram Badge](https://img.shields.io/badge/-ryn.math-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ryn.math/)](https://instagram.com/ryn.math)
+[![Youtube Badge](https://img.shields.io/badge/-RyansPythonReview-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/@RyansPythonReview)](https://www.youtube.com/@RyansPythonReview)
 
 ## Technical Software
 
