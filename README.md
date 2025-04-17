@@ -41,10 +41,6 @@
 
 <h1 align='center'>⚡️<i>Let's make the future!</i>⚡️</h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanMathram/ryanMathram/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanMathram/ryanMathram/output/github-snake.svg" />
