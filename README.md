@@ -10,33 +10,32 @@
 
 ⚡ Fun fact **I love to help the community whether it be at the food bank, church, club, etc**
 
-[![Linkedin Badge](https://img.shields.io/badge/-RyanMathuram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanmathuram/)](https://www.linkedin.com/in/ryanmathuram/)
+[![Linkedin Badge](https://img.shields.io/badge/-RyanMathuram-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanmathuram/)](https://www.linkedin.com/in/ryanmathuram/)
 [![Instagram Badge](https://img.shields.io/badge/-ryn.math-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ryn.math/)](https://instagram.com/ryn.math)
 [![Youtube Badge](https://img.shields.io/badge/-RyansPythonReview-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/@RyansPythonReview)](https://www.youtube.com/@RyansPythonReview)
 
-## Technical Software
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React.js-000?&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
 
-[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram) [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram)
+[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram)                      [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanMathram&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryanMathram)
 
 
 <br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
 
 <h1 align='center'>⚡️<i>Let's make the future!</i>⚡️</h1>
 
