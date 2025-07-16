@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Godson Mathuram</h1>
 <h3 align="center">A passionate software developer based in San Antonio, Texas</h3>
 
-🔭 I’m currently working on [Volunteering Hub](https://github.com/ryanMathram/BankSpendings)
+🔭 I’m currently working on [Bank Spendings](https://github.com/ryanMathram/BankSpendings)
 
 🌱 I’m currently learning **Javascript, React, HTMl, CSS, PyTorch, TenserFlow, and Pandas**
 
