@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Bank Spendings](https://github.com/ryanMathram/BankSpendings)
 
-🌱 I’m currently learning **Javascript, React, HTMl, CSS, PyTorch, TenserFlow, and Pandas**
+🌱 I’m currently learning and integrating **JavaScript, React, TypeScript, Numpy, TenserFlow, and Pandas**
 
 📫 How to reach me **rynmathcs@gmail.com**
 
