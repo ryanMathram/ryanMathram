@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ryan Godson Mathuram</h1>
 <h3 align="center">A passionate software developer based in San Antonio, Texas</h3>
 
-🔭 I’m currently working on [Bank Spendings](https://github.com/ryanMathram/BankSpendings)
+I am a Computer Science freshman at the University of Texas at San Antonio!
+
+🔭 I will be working as a UTS Bold Careers Intern(UTSA) at Service Now 
 
 🌱 I’m currently learning and integrating **JavaScript, React, TypeScript, Numpy, TenserFlow, and Pandas**
 
