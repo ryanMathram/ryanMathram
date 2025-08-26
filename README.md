@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Godson Mathuram</h1>
 <h3 align="center">A passionate software developer based in San Antonio, Texas</h3>
 
-I am a Computer Science freshman at the University of Texas at San Antonio!
+I am a Computer Science junior at the University of Texas at San Antonio!
 
 🔭 I will be working as a UTS Bold Careers Intern(UTSA) at Service Now 
 
@@ -10,7 +10,7 @@ I am a Computer Science freshman at the University of Texas at San Antonio!
 
 📫 How to reach me **rynmathcs@gmail.com**
 
-⚡ Fun fact **I love to help the community whether it be at the food bank, church, club, etc**
+⚡ Fun fact **I love to help the community such as the church, clubs,  food banks, and more!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-RyanMathuram-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanmathuram/)](https://www.linkedin.com/in/ryanmathuram/)
 [![Instagram Badge](https://img.shields.io/badge/-ryn.math-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ryn.math/)](https://instagram.com/ryn.math)
