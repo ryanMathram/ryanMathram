@@ -23,7 +23,7 @@ I am a Computer Science Junior at the University of Texas at San Antonio!
 ![React](https://img.shields.io/badge/-React.js-000?&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
