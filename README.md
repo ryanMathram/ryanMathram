@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Godson Mathuram</h1>
 <h3 align="center">A passionate software developer based in San Antonio, Texas</h3>
 
-I am a Computer Science Junior at UT San Antonio!
+I am a Computer Science Freshman at UT San Antonio!
 
 🔭 I will be working as a UTS Bold Careers Intern(UTSA) at Service Now and researching under Dr. Zhang for XAI Applications
 
