@@ -22,6 +22,7 @@ I am a Freshman at UT San Antonio studying Computer Science and Neuroscience!
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React.js-000?&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
